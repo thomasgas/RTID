@@ -1,2 +1,2 @@
-# TID
-random things I discover
+# RTID
+Random Things I Discover
